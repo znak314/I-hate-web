@@ -1,0 +1,58 @@
+.num-div {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+h3 {
+    margin: 10px;
+}
+
+.blue{
+    background-color: #C6D9F1;
+}
+
+.green{
+   background-color:  #00d084;
+}
+
+.red{
+    background-color: #FDE9D9;
+}
+
+
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.num-div {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+h3 {
+    margin: 10px;
+}
+
+.blue{
+    background-color: #C6D9F1;
+}
+
+.green{
+   background-color:  #00d084;
+}
+
+.red{
+    background-color: #FDE9D9;
+}
